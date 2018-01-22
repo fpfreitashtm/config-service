@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cupomfiscal-service
+    name: cupomfiscal-service-new
     
 eureka:
   client:
