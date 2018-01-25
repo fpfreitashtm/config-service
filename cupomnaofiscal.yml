@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cupomnaofiscal-service
+    name: cupomnaofiscal-service-123
     
 eureka:
   client:
